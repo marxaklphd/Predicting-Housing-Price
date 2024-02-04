@@ -1,0 +1,1 @@
+Machine Learning Project: Predicting the median house value based on a set of predictors in a California housing data set using three linear regression models: LinearRegression, DecisionTreeRegressor, and RandomForestRegressor 
